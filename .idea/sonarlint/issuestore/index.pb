@@ -12,9 +12,9 @@ k
 +src/main/java/hello/core/member/Member.java,2/0/2038d33a60e4143ea64a70c882de2fe342988048
 h
 8src/main/java/hello/core/discount/FixDiscountPolicy.java,7/8/783a92abedfa31ae0231e885a252930599b878b3
-b
-2src/main/java/hello/core/member/MemberService.java,6/6/664d6a132c2c4469f7ae1e7a8391ec36e161958a
-f
-6src/main/java/hello/core/member/MemberServiceImpl.java,3/c/3c89627e38437fb3bfd25cc0b718885fd9e0aacf
 `
 0src/main/java/hello/core/order/OrderService.java,2/9/2969a2581863e32063643e735463b3c1ea262b01
+W
+'src/main/java/hello/core/MemberApp.java,d/9/d9c0e75e8087b28d6234109c5d6be77ffb9d30a3
+d
+4src/test/java/hello/core/order/OrderServiceTest.java,5/8/5841eb00914cda8bcd60b16b208273392858a74b
