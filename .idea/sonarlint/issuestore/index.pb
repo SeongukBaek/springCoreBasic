@@ -6,8 +6,6 @@
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 e
 5src/main/java/hello/core/member/MemberRepository.java,d/8/d8dfe9f350191fbd36d9f70732be88791e9da9b8
-k
-;src/main/java/hello/core/member/MemoryMemberRepository.java,f/4/f41ab398153982d96f1f6d09cb017d69d33b9e7b
 [
 +src/main/java/hello/core/member/Member.java,2/0/2038d33a60e4143ea64a70c882de2fe342988048
 h
@@ -16,5 +14,3 @@ h
 0src/main/java/hello/core/order/OrderService.java,2/9/2969a2581863e32063643e735463b3c1ea262b01
 W
 'src/main/java/hello/core/MemberApp.java,d/9/d9c0e75e8087b28d6234109c5d6be77ffb9d30a3
-d
-4src/test/java/hello/core/order/OrderServiceTest.java,5/8/5841eb00914cda8bcd60b16b208273392858a74b
