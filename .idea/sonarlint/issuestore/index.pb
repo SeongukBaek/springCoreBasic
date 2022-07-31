@@ -24,3 +24,9 @@ b
 2src/main/java/hello/core/member/MemberService.java,6/6/664d6a132c2c4469f7ae1e7a8391ec36e161958a
 k
 ;src/main/java/hello/core/member/MemoryMemberRepository.java,f/4/f41ab398153982d96f1f6d09cb017d69d33b9e7b
+b
+2src/test/java/hello/core/CoreApplicationTests.java,6/c/6cb232908f0a15f8da3c2c045f6cc0c3d26c583b
+o
+?src/test/java/hello/core/beandefinition/BeanDefinitionTest.java,4/0/4046a6bfdea8f588632296458248ccfda58d559c
+r
+Bsrc/test/java/hello/core/singleton/ConfigurationSingletonTest.java,d/d/dd084bd74a77326ec436e0074de2d5eb48f9f6ca
